@@ -4,3 +4,4 @@ def suma(n):
     else:
         return n+suma(n-1)
 print(suma(10))
+print("action completed!")
